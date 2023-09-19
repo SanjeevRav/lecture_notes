@@ -1,0 +1,5 @@
+.content-nav:hover{
+    background-color: rgba(0, 0, 0, 0.164) !important;
+    color: black !important;
+    transition: all 0.3s;
+}
