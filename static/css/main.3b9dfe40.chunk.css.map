@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/main.css"],"names":[],"mappings":"AAAA,mBACI,2CAAiD,CACjD,oBAAuB,CACvB,kBACJ","file":"main.3b9dfe40.chunk.css","sourcesContent":[".content-nav:hover{\r\n    background-color: rgba(0, 0, 0, 0.164) !important;\r\n    color: black !important;\r\n    transition: all 0.3s;\r\n}\r\n"]}
