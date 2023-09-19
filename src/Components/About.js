@@ -8,7 +8,7 @@ function About() {
       <div className="container-fluid text-center">
         <img src={banner} alt="banner" className="col-12 col-md-5" />
         <br />
-        <h1 className="display-1">ABOUT</h1>
+        <h1 className="display-1">ABOUT US</h1>
       </div>
     </div>
   );
